@@ -1,7 +1,7 @@
 package com.in28minutes.rest.webservice.resftfulwebservices.user;
 
 import java.time.LocalDate;
-
+//this is our bean
 public class User {
 
     private Integer id;
